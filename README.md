@@ -5,6 +5,8 @@ The app contains 2 `TextView` for showing the scores of the players, 1 `TextView
 
 Untouched buttons of the game will be in green color and used buttons will red color with the respective player's symbol (X or O).
 
+### To download the app -> goto releases > Apk Downloadable > assets > app-debug.apk
+
 Screenshots of my app 👇
 
 1. Screen when opened
